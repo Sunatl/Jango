@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Spirax&display=swap" rel="stylesheet');
+
+* {
+    margin: 0;
+    padding: 3px;
+
+    font-family: "Spirax", serif;
+}
+.a1{
+    color: blue;
+    width: 620px;
+    text-align: center;
+}
+.a2{
+    color: brown;
+}
+.a3{
+    color: blue;
+}
+.a4{
+    color: brown;
+}
+.a5{
+    color: chartreuse;
+}
+.aa1{
+    background-color: blue;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    width: 10px;
+    color: white;
+    padding: 7px;
+    
+}
+.aa2{
+    width: 300px;
+    height: 250px;
+    border-radius: 1000px;
+}
+
